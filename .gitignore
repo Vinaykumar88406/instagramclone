@@ -1,0 +1,11 @@
+# Add all files to Git
+git add .
+
+# Commit changes
+git commit -m "Initial commit"
+
+# Connect to GitHub repository
+git remote add origin https://github.com/your-username/django-instagram-clone.git
+
+# Push code to GitHub
+git push -u origin main
