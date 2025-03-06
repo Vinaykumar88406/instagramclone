@@ -5,7 +5,7 @@ git add .
 git commit -m "Initial commit"
 
 # Connect to GitHub repository
-git remote add origin https://github.com/your-username/django-instagram-clone.git
+git remote add origin https://github.com/Vinaykumar88406/django-instagram-clone.git
 
 # Push code to GitHub
 git push -u origin main
